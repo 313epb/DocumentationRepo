@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "ObsidianRepo/Медиа материалы/Сетка.png"
+                "file": "ObsidianRepo/Медиа материалы/Сетка маленькая (чуть кривая).png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ObsidianRepo/Медиа материалы/Сетка.png",
+                "file": "ObsidianRepo/Медиа материалы/Сетка маленькая (чуть кривая).png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ObsidianRepo/Медиа материалы/Сетка.png",
+                "file": "ObsidianRepo/Медиа материалы/Сетка маленькая (чуть кривая).png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ObsidianRepo/Медиа материалы/Сетка.png"
+                "file": "ObsidianRepo/Медиа материалы/Сетка маленькая (чуть кривая).png"
               }
             }
           }
@@ -146,11 +146,26 @@
   },
   "active": "fd7d27295f9a08c5",
   "lastOpenFiles": [
+    "ObsidianRepo/Медиа материалы/Шаблон финальный (маленький).png",
+    "ObsidianRepo/Медиа материалы/Сетка маленькая (чуть кривая).png",
+    "ObsidianRepo/Медиа материалы/Тестовые файлы.png",
+    "ObsidianRepo/Медиа материалы/Сетка октагональная.png",
+    "ObsidianRepo/Карта/Шаблоны юнитов (под реализацию).md",
+    "ObsidianRepo/Медиа материалы/Сетка 4.png",
+    "ObsidianRepo/Медиа материалы/Сетка 3.png",
+    "ObsidianRepo/Медиа материалы/Шаблон финальный.psd",
+    "ObsidianRepo/Медиа материалы/ps2B16.tmp",
+    "ObsidianRepo/Карта/Сетка.md",
+    "ObsidianRepo/Медиа материалы/Сетка маленькая.psd",
+    "ObsidianRepo/Медиа материалы/Сетка октагональная.psd",
+    "ObsidianRepo/Медиа материалы/Шаблон сетки.psd",
+    "ObsidianRepo/Медиа материалы/Сетка 2.png",
+    "ObsidianRepo/Медиа материалы/Сетка.png",
+    "ObsidianRepo/Медиа материалы/Тестовые выделения.png",
+    "ObsidianRepo/Медиа материалы/ps5488.tmp",
     "ObsidianRepo/Медиа материалы/Сетка на карту.psd",
     "ObsidianRepo/Медиа материалы/Untitled-2.psd",
-    "ObsidianRepo/Карта/Сетка.md",
     "ObsidianRepo/Карта/Размеры карты.md",
-    "ObsidianRepo/Медиа материалы/Сетка.png",
     "ObsidianRepo/Медиа материалы/Untitled-3.psd",
     "ObsidianRepo/Юниты/Формула пересчета полученного урона.md"
   ]
