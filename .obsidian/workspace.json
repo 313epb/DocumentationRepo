@@ -11,11 +11,9 @@
             "id": "fd7d27295f9a08c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "ObsidianRepo/Юниты/Формула пересчета полученного урона.md",
-                "mode": "source",
-                "source": false
+                "file": "ObsidianRepo/Медиа материалы/Сетка.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ObsidianRepo/Юниты/Формула пересчета полученного урона.md",
+                "file": "ObsidianRepo/Медиа материалы/Сетка.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ObsidianRepo/Юниты/Формула пересчета полученного урона.md",
+                "file": "ObsidianRepo/Медиа материалы/Сетка.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ObsidianRepo/Юниты/Формула пересчета полученного урона.md"
+                "file": "ObsidianRepo/Медиа материалы/Сетка.png"
               }
             }
           }
@@ -147,5 +145,13 @@
     }
   },
   "active": "fd7d27295f9a08c5",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "ObsidianRepo/Медиа материалы/Сетка на карту.psd",
+    "ObsidianRepo/Медиа материалы/Untitled-2.psd",
+    "ObsidianRepo/Карта/Сетка.md",
+    "ObsidianRepo/Карта/Размеры карты.md",
+    "ObsidianRepo/Медиа материалы/Сетка.png",
+    "ObsidianRepo/Медиа материалы/Untitled-3.psd",
+    "ObsidianRepo/Юниты/Формула пересчета полученного урона.md"
+  ]
 }
