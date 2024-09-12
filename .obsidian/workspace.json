@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "008c1304feabf7ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Базово по игре 12.09.2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ObsidianRepo/Юниты/Оружие.md",
+                "file": "Базово по игре 12.09.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ObsidianRepo/Юниты/Оружие.md",
+                "file": "Базово по игре 12.09.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ObsidianRepo/Юниты/Оружие.md"
+                "file": "Базово по игре 12.09.2024.md"
               }
             }
           }
@@ -146,11 +159,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "fd7d27295f9a08c5",
+  "active": "008c1304feabf7ac",
   "lastOpenFiles": [
-    "Статы юнитов/85210500",
     "ObsidianRepo/Юниты/Базовые характеристики отряда.md",
+    "Базово по игре 12.09.2024.md",
     "ObsidianRepo/Юниты/Оружие.md",
+    "Статы юнитов/85210500",
     "Статы юнитов/8EB4E900",
     "Статы юнитов/EF03E900",
     "Статы юнитов/4E03E900",
@@ -162,7 +176,6 @@
     "ObsidianRepo/Карта/Сетка.md",
     "Статы юнитов/Ангельский союз.xlsx",
     "Статы юнитов/E0457900",
-    "Статы юнитов/~$Ангельский союз.xlsx",
     "ObsidianRepo/Медиа материалы/Сетка маленькая (чуть кривая).png",
     "ObsidianRepo/Медиа материалы/Шаблон финальный (маленький).png",
     "ObsidianRepo/Медиа материалы/Тестовые файлы.png",
